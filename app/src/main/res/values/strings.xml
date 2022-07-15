@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ComposeTestProject</string>
+    <string name="title_activity_lazy_column">LazyColumnActivity</string>
+    <string name="title_activity_paging">PagingActivity</string>
+    <string name="title_activity_room">RoomActivity</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="title_activity_push_view_model_factory">PushViewModelFactory</string>
+    <string name="title_activity_home">HomeActivity</string>
+</resources>
