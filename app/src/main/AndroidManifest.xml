@@ -10,6 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ComposeTestProject">
         <activity
+            android:name=".ExampleActivity"
+            android:exported="false"
+            android:label="@string/title_activity_example"
+            android:theme="@style/Theme.ComposeTestProject" />
+        <activity
             android:name=".activity.HomeActivity"
             android:exported="true"
             android:label="@string/title_activity_home"
@@ -20,7 +25,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
         <activity
             android:name=".activity.SettingActivity"
             android:exported="false"
@@ -45,9 +49,7 @@
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.ComposeTestProject">
-
-        </activity>
+            android:theme="@style/Theme.ComposeTestProject"></activity>
     </application>
 
 </manifest>

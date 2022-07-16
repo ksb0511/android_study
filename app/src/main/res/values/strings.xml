@@ -6,4 +6,5 @@
     <string name="title_activity_setting">SettingActivity</string>
     <string name="title_activity_push_view_model_factory">PushViewModelFactory</string>
     <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_example">ExampleActivity</string>
 </resources>
